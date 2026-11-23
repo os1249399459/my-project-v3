@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+*.local
+.env.local
+.DS_Store
+.eslintcache
+*.tsbuildinfo
+src/types/auto-imports.d.ts
+src/types/components.d.ts
